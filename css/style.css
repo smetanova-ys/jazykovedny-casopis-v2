@@ -13,7 +13,7 @@ body {
 .journal {
     min-height: 95vh;
     background-color: #558B2F;
-    width: 50%;
+    width: 900px;
     margin-left: auto;
     margin-right: auto;
 }

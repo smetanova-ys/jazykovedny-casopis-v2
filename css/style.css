@@ -3,11 +3,12 @@ body {
     padding: 0;
     padding-top: 1vh;
     font-family: "Martel", serif;
-    min-width: 320px;
 
     background-image: url("../images/woods-3331043_640.jpg");
     background-repeat: repeat;
     background-color: darkgray;
+
+    min-width: 900px;
 }
 
 .journal {
